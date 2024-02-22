@@ -25,8 +25,8 @@ const styles = (isDone:boolean = false) => StyleSheet.create({
         width: 35,
     },
     buttonImg:{
-        height: 22,
-        width: 18,
+        height: 20,
+        width: 16,
         justifyContent: "center",
         alignItems: "center",
     },
